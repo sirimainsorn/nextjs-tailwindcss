@@ -1,8 +1,8 @@
-import HomeFeature from "@/features/HomeFeature";
-import LandingLayout from "@/layouts/LandingLayout";
+import HomeFeature from '@/features/HomeFeature'
+import LandingLayout from '@/layouts/LandingLayout'
 
 export default function Home() {
-  return <HomeFeature />;
+  return <HomeFeature />
 }
 
-Home.layout = LandingLayout;
+Home.layout = LandingLayout
